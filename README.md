@@ -48,7 +48,7 @@ java -jar build/libs/bank-sample-java-1.1.6-all.jar --ssl
 ```
 
 Changing
-========
+=========
 
 As written, the service responds to TokenOS requests with static data
 pulled from a configuration file. It does some accounting, recording
@@ -88,3 +88,5 @@ to use the model in the bank-specific correct manner.
 `src/main/java/io/token/banksample/services`
 * `AccountServiceImpl.java` - Account information
 * `TransferServiceImpl.java` - Transfers
+
+
