@@ -7,7 +7,7 @@ alter the model to integrate with bank systems.
 
 
 IMPORTANT
-=========
+==========
 Regenerate certificates and keys before deploying this in a production environment.
 
 This [test](src/test/java/io/token/banksample/GenerateKeyTest.java) can be used to generate a new key pair for signing.
